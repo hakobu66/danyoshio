@@ -16,6 +16,11 @@ h6{
   margin: 0;
 }
 
+h3{
+  background-color: red;
+  color: white;
+}
+
 h4{
   background-color: black;
   color:white;
