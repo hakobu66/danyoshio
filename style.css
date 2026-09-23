@@ -15,18 +15,21 @@ h1 {
 h2{
     text-align: center;
   background-color: deepskyblue;
+  color: #666666;
   margin: 0;
 }
 
 h6{
     text-align: center;
   background-color: orange;
+  color: #666666;
   margin: 0;
 }
 
 h3{
     text-align: center;
   background-color: red;
+  color: #666666;
   margin: 0;
 }
 
