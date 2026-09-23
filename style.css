@@ -5,35 +5,30 @@ body{
 }
 
 h1 {
-    text-align: center;
   background-color: #E60012;
   color:white;
   margin: 0;
 }
 
 h2{
-    text-align: center;
   background-color: deepskyblue;
   color: #2F2F2F;
   margin: 0;
 }
 
 h6{
-    text-align: center;
   background-color: orange;
   color: #666666;
   margin: 0;
 }
 
 h3{
-    text-align: center;
   background-color: #E60012;
   color: ##2F2F2F;
   margin: 0;
 }
 
 h4{
-    text-align: center;
   background-color: #2F2F2F;
   color:white;
   margin: 0;
